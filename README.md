@@ -1,5 +1,5 @@
 
-NLP Rule Based, Regex, and Word Embedding Lab
+# NLP Rule Based, Regex, and Word Embedding Lab
 Objective
 The main purpose behind this lab is to gain familiarity with NLP rule-based techniques, regular expressions (Regex), and word embedding methodologies.
 
